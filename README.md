@@ -1,6 +1,5 @@
 # Tugas-Program-Implementasi-Interpolasi-Polinomial-Lagrange-dan-Newton
-Program ini merupakan implementasi dari teori interpolasi Lagrange dan Newton
-Pada program ini menggunakan numpy, sympy, dan matplotlib sebagai library 
+Program ini merupakan implementasi dari teori interpolasi Lagrange dan Newton dalam bahasa pemrograman Python menggunakan library numpy, sympy, dan matplotlib 
 
 # Data points
 Tegangan = np.array([5, 10, 15, 20, 25, 30, 35, 40])
